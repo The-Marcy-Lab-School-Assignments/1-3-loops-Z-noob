@@ -1,3 +1,4 @@
+/** FEEDBACK: Great job! */
 const whileToFor = () => {
   for (let i = 0; i < 5; i++) {
     console.log(i);
@@ -17,6 +18,7 @@ const continueGuardClause = () => {
   }
 };
 // continueGuardClause()
+/** FEEDBACK: Hey! I know this can be confusing, maybe we go over this during a lab review! */
 //When I was reading the .spec.js it was confusing which input and output it wants
 
 module.exports = {
